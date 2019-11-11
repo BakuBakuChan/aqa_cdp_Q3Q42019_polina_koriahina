@@ -9,11 +9,11 @@ import lombok.*;
 @Getter
 @Setter
 public class KittyCat {
-    private @NotNull
+    private @NonNull
     @Setter(AccessLevel.NONE)
     @Getter(AccessLevel.NONE)
     String name;
-    private @NotNull
-    float weight;
+    private @NonNull
+    double weight;
     private float calorieContent;
 }

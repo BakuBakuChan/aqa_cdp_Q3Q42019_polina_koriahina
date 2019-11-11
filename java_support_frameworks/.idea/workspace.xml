@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc0d25f2-2d5e-4320-b083-4c13efe12ce6" name="Default Changelist" comment="" />
+    <list default="true" id="cc0d25f2-2d5e-4320-b083-4c13efe12ce6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/support_farmeworks/enumerations/CuteLevelPropsGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/calories/calories.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/cute-levels.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_support_frameworks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/support_farmeworks/animals/Kitty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/support_farmeworks/animals/Kitty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/support_farmeworks/food/EatCharacteristic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/support_farmeworks/food/EatCharacteristic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/support_farmeworks/food/KittyCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/support_farmeworks/food/KittyCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epam/support_farmeworks/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/support_farmeworks/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/java_support_frameworks.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/epam/support_farmeworks/animals/Animals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/epam/support_farmeworks/animals/Animals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/epam/support_farmeworks/animals/Kitty.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/epam/support_farmeworks/animals/Kitty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/epam/support_farmeworks/enumerations/CatPosition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/epam/support_farmeworks/enumerations/CatPosition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/epam/support_farmeworks/enumerations/CuteLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/epam/support_farmeworks/enumerations/CuteLevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/epam/support_farmeworks/food/EatCharacteristic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/epam/support_farmeworks/food/EatCharacteristic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/epam/support_farmeworks/food/KittyCat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/epam/support_farmeworks/food/KittyCat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/epam/support_farmeworks/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/epam/support_farmeworks/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j2.properties" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +37,12 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -27,11 +52,19 @@
     </option>
   </component>
   <component name="ProjectId" id="1PShEPaR1CFJeAqZeca7etbBDQb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../crm-proxy-api/automation" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Polina_Koriahina\Desktop\aqa_cdp_Q3Q42019_polina_koriahina\java_support_frameworks\src\main\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -77,5 +110,18 @@
       <updated>1565782611511</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
