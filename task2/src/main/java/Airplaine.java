@@ -2,6 +2,7 @@ public class Airplaine {
     private boolean autoPilot;
     private AirplaneColor airplaneColor;
 
+
     private void autoPilotONOFF(String onOrOff){
        autoPilot = onOrOff.equals("ON");
     }
