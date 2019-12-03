@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc0d25f2-2d5e-4320-b083-4c13efe12ce6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../task2/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/epam/support_farmeworks/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/epam/support_farmeworks/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task2/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../task2/src/main/java/Airplaine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task2/src/main/java/Airplaine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/src/main/java/AirplaneColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task2/src/main/java/AirplaneColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task2/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
